@@ -1,16 +1,16 @@
             body{
-                background-image: url(imagens/portugal6.jfif);
+                background-image: url(imagens/portugal2.jfif);
                 background-size: cover;
                 background-repeat: no-repeat;
                 background-attachment: fixed;
-                color: black;
+                color:black;
                 text-align: right;
                 margin: 0px 80px 0px 0px;  
                 margin-right: 80px; 
-                font-family: 'Zilla Slab', serif;;
+                font-family: 'Zilla Slab'serif;;
             }
                     h1{
-                        font-size: 100px;
+                        font-size: 80px;
                         padding-top: 280px;
                         margin-bottom: 15px;
 
@@ -22,7 +22,7 @@
                         opacity: 0.8;
                     }
                     span{
-                        color: darkgreen;
+                        color: purple;
                     }
                     ul{
                         margin-top: 50px;
@@ -31,10 +31,14 @@
                         display: inline;
                     }
                     ul li a {
-                        color: white;
+                        color:white;
                     text-decoration: none;
-                    font-size: 20px;
+                    font-size: 30px;
                     padding: 5px;
+                    }
+
+                    form {
+                        align-content: end;
                     }
 
                         segundo-parag{
@@ -42,9 +46,9 @@
                         }
                         botao{
                             text-decoration: none;
-                            background-color: black ;
+                            background-color: white ;
                             padding: 10px 15px;
-                            color: beige;
+                            color: black;
                         } 
                         .botao:hover{
                             background-color: green;
